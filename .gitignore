@@ -1,0 +1,5 @@
+# build artifacts (exe are committed on purpose — they are tiny)
+*.obj
+*.spec
+build/
+.env/
